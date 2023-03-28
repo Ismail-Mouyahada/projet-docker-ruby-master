@@ -2,6 +2,8 @@
 # TD Docker 
 ## Pilote & Enseignant : Monsieur LERVILLE Fabien
 
+## Group : Ismail Mouyahada & Stanislas Thiebaud
+
  # Mini projet Docker avec Ruby on Rails
 
 Créer un mini projet sur docker qui retourne “ Bonjour les DI 21 “ avec Ruby on rails
