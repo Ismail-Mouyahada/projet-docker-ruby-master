@@ -1,6 +1,6 @@
 
 # TD Docker 
-## Pilot & Enseignant : Monsieur LERVILLE Fabien
+## Pilote & Enseignant : Monsieur LERVILLE Fabien
 
  # Mini projet Docker avec Ruby on Rails
 
