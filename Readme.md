@@ -1,8 +1,9 @@
+![Screenshot 2023-03-28 195716](https://user-images.githubusercontent.com/66369128/228327228-869d2506-73dd-4110-9e8f-ad1989fda5de.png)
 
 # TD Docker 
 ## Pilote & Enseignant : Monsieur LERVILLE Fabien
 
-## Group : Ismail Mouyahada & Stanislas Thiebaud
+#### Group : Ismail Mouyahada & Stanislas Thiebaud
 
  # Mini projet Docker avec Ruby on Rails
 
